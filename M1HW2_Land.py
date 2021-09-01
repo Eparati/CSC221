@@ -1,21 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 30 13:51:59 2021
-
-@author: landr3615
-"""
-
-"""
-a)create dataframe "temperatures" with readings for maxine, james, and amanda
-b)remake df temps in a with custom indices using index
-c) select from temps of maxine
-d)select from row mornings
-e)select from row morning and evening
-f)select from amanda and maxine
-g)select from " " " in morning and afternoon
-h)use describe method on temperatures
-i)transpose temperatures
-j)sort temperatures so column names in alphabetical order
+CSC 221
+M1HW2
+Robert Land
+9/1/2021
 """
 import pandas as pd
 def main():

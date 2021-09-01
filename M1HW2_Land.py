@@ -37,5 +37,5 @@ def main():
     print("The following will be a transpose of the temperatures Data Frame:")
     print(temperatures.T,"\n")
     print("The following is a sorted form of temperatures where each column will be in alphabetical order.")
-    
+    print(temperatures.sort_index(axis=1))
 main()
